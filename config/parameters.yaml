@@ -1,0 +1,2 @@
+parameters:
+  app.data_source_file.csv: '%kernel.project_dir%/vacancies.csv'
